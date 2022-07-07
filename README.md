@@ -1,8 +1,11 @@
 # city-travel-api
+
 City Travel API
 A project that allows people to search for places to set their next travel plan in Vietnam
 
 **Link to project:** https://city-travel-api.netlify.app/
+
+## Demo:
 
 ![demo](demo/demo.gif)
 
@@ -16,7 +19,7 @@ People can either type the places in English or in Vietnamese, the fetched data 
 
 With the help of HTML5 Up design, I can make the website more eye-catchy.
 
-## Optimizations
+## Optimizations:
 
 I would have collected more data for the API so users can get more information about the places like how to get there, things to do in that place, great friendly hostel, and local food rather than only displaying the place's image and a short description about the place. Would seriously think about optimizing the API data before launching the second version of this, which will contain tons of useful information and feature that help traveller.
 
